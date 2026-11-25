@@ -1,0 +1,9 @@
+# Optional project-scoped Codex CLI example.
+# Project config is loaded only after the project is trusted.
+# Review current docs and OS/CLI support before adopting.
+
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+
+[sandbox_workspace_write]
+network_access = false
