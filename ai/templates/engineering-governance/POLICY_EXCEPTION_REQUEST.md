@@ -1,0 +1,21 @@
+# Policy Exception Request
+
+- Exception ID:
+- Policy / control ID and version:
+- Exact requirement to be excepted:
+- Project / system and affected scope:
+- Requestor and accountable owner:
+- Business / technical rationale:
+- Alternatives considered:
+- Start date:
+- Requested expiry date:
+- Risk assessment reference:
+- Residual risk:
+- Compensating controls and verification:
+- Remediation plan and target date:
+- Monitoring / review cadence:
+- Required independent reviewer:
+- Authorized approver and authority:
+- Decision: Pending / Approved / Rejected
+- Decision date and conditions:
+- Closure evidence:
