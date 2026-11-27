@@ -1,0 +1,11 @@
+# Cross-Project Reuse Review
+- [ ] Source owner and sharing authority identified.
+- [ ] Reuse scope and recipient explicit.
+- [ ] Authorization verified before retrieval/use.
+- [ ] Secrets, customer/personal data, identifiers removed.
+- [ ] Confidential implementation details removed/restricted.
+- [ ] General applicability validated.
+- [ ] Versions, prerequisites, limitations, counterexamples recorded.
+- [ ] Licensing/security/tenancy constraints considered.
+- [ ] Required human approval recorded.
+- [ ] Safe source traceability retained.

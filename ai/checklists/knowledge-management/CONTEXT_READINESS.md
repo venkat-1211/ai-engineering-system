@@ -1,0 +1,11 @@
+# Context Readiness
+- [ ] Objective, scope, acceptance criteria are clear.
+- [ ] Governing/local instructions inspected.
+- [ ] Current repository and relevant implementation inspected.
+- [ ] Components and dependencies identified.
+- [ ] Sources authorized for this task/project.
+- [ ] Version, date, status, owner, freshness checked.
+- [ ] Relevant decisions and constraints considered.
+- [ ] Conflicts and assumptions are explicit.
+- [ ] Context is sufficient but not excessive.
+- [ ] No secrets or unauthorized content included.

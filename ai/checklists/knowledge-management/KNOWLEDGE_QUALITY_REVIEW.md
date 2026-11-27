@@ -1,0 +1,13 @@
+# Knowledge Quality Review
+- [ ] Stable ID and clear title.
+- [ ] Category, scope, and sensitivity are explicit.
+- [ ] Claims are separated from interpretation/recommendation.
+- [ ] Trust labels are accurate.
+- [ ] Material claims have traceable sources.
+- [ ] Source versions and freshness are suitable.
+- [ ] Conflicts, limitations, and unknowns are visible.
+- [ ] Owner or Unassigned is recorded.
+- [ ] Review date/trigger is defined where needed.
+- [ ] No secrets or unnecessary personal data.
+- [ ] Approval is claimed only with evidence.
+- [ ] Superseded records link to replacements.

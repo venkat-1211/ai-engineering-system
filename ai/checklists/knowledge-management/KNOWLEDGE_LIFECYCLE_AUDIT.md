@@ -1,0 +1,11 @@
+# Knowledge Lifecycle Audit
+- [ ] Lifecycle status is clear.
+- [ ] Owner or Unassigned recorded.
+- [ ] Review date/trigger present where needed.
+- [ ] Stale records not presented as current.
+- [ ] Superseded records link to replacements.
+- [ ] History preserves material decisions.
+- [ ] Archive/retention follows policy.
+- [ ] Sensitive/inaccurate content has approved correction path.
+- [ ] Agent proposals are not misrepresented as approved.
+- [ ] Review evidence is available.
