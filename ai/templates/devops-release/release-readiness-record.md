@@ -1,0 +1,23 @@
+# Release Readiness Record
+
+- Release/version:
+- Service/repository:
+- Owner:
+- Risk classification:
+- Target environment:
+- Source commit/tag:
+- Pipeline run:
+- Artifact name/version/digest:
+- Change summary:
+- Affected services/dependencies:
+- Required approvals:
+- Test evidence (Stage 9):
+- Security/supply-chain evidence (Stage 10):
+- Configuration/permission validation:
+- Database migration and backup evidence:
+- Monitoring/health checks:
+- Rollback or forward-recovery plan:
+- Known issues:
+- Exceptions/waivers (Stage 6):
+- Decision: `Passed` / `Failed` / `Not run` / `Blocked` / `Requires human approval`
+- Human approver and timestamp:
