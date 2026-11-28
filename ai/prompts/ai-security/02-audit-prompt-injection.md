@@ -1,0 +1,3 @@
+# 02 Audit Prompt Injection
+
+Perform a read-only authorized audit of prompt and retrieval flows. Inspect trusted instruction construction, user/retrieved content, tool outputs, memory, provenance, and action execution. Assess direct/indirect injection, instruction hierarchy confusion, context exfiltration, tool manipulation, and downstream output injection. Use safe synthetic examples only. Do not change files, run destructive actions, contact third parties, or use real secrets/personal data. Report evidence, impact, deterministic mitigations, and regression tests. Do not claim prompt-only protection guarantees safety.

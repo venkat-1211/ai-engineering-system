@@ -1,0 +1,3 @@
+# 03 Audit Agent Tools
+
+Perform a read-only audit of agent identities and tools. For each tool inspect caller identity, permission scope, server-side authorization, argument schema, tenant/resource binding, destination/path constraints, rate/size/time limits, idempotency, approval, audit logging, and failure behavior. Flag wildcard access, model-trusted IDs, unrestricted shell/browser/database/filesystem access, long-lived credentials, and missing approvals. Do not invoke privileged/destructive tools or modify files. Provide evidence-backed findings and tests; comments alone are not proof of enforcement.

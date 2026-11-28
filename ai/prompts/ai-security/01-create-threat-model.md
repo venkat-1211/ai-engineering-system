@@ -1,0 +1,3 @@
+# 01 Create Threat Model
+
+Inspect the actual project and create/update `ai/templates/ai-security/threat-model.md`. Review architecture, routes, authentication/authorization, data stores, model/provider calls, retrieval, tools, file handling, logs, deployment, and dependencies. Do not modify application code. Separate observed facts from assumptions/unknowns. Identify assets, actors, trust boundaries, AI abuse cases, controls, owners, and evidence. Use an approved risk rubric. Never expose secrets or claim tests ran without evidence. Deliver inspected files, threat register, priority actions, gaps, and stop for human review.

@@ -1,0 +1,3 @@
+# 05 Security Release Review
+
+Review the release candidate against `docs/ai-security/security-release-gates.md`. Read-only unless separately authorized. Verify exact commit/environment/configuration/test scope, threat model, access controls, data protection, secrets, dependencies, tool permissions, findings, monitoring, rollback/disable, and incident ownership. Missing evidence is not PASS. Do not suppress findings or approve exceptions/releases. Distinguish PASS, PASS WITH ACCEPTED RISK, BLOCKED, NOT APPLICABLE. Accepted risks need human approval, scope, controls, and expiry. Return evidence-linked report and stop.
